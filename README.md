@@ -23,7 +23,8 @@ The analysis ran through all the tickers to add up each of their individual tota
 
 ### Analysis Explained 
 In the 2017 Analysis of All Stocks the ticker’s return rate fell into the positive category with only one ticker being negative. In comparison the 2018 analysis of all stocks did not do nearly as well. All but two tickers were in the negative.  
-##Code Explained
+
+### Code Explained
    The original "AllStocksAnalysis" code ran and delivered the desired outcome, but was not sufficient, in that there were unnecessary lines of code it had to go through. In the "AllStocksAnalysis", all 3,012 rows were read 12 times; once for each ticker symbol. 
 
 With the final code, "AllStocksAnalysisRefactored", three additional arrays were added, giving one array for each of the four columns in the "All Stocks Analysis" sheet. In adding the arrays and if-statements the rows of data were read one time while collecting the output data for each ticker symbol. This resulted in fewer lines of code needing to be read giving a faster output time.
