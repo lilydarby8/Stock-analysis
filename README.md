@@ -9,12 +9,12 @@ To accurately display the Ticker’s total daily volume and what return they had
 ## Results of Analysis
 The analysis ran through all the tickers to add up each of their individual total daily volumes and calculate their return of stocks. Included in the code was formatting and conditional functions. Those functions displayed the data cleaner and clearer.  The challenge I faced was getting an overflow error when I ran the completed code. I had to make sure that excel knew where to take the data from when the "for loop" commenced. I had to specify before each cell to take the data from, " Worksheets(yearValue).".
 
-**below are two images showing what happened when I didn’t specify the worksheet and how I added it to run properly without error
+** below are two images showing what happened when I didn’t specify the worksheet and how I added it to run properly without error
 ![This is an image](https://github.com/lilydarby8/Stock-analysis/issues/1#issuecomment-1161996477)
 ![This is an image](https://github.com/lilydarby8/Stock-analysis/issues/1#issuecomment-1161996615)
 
 
- **Also included are screenshots of the run time of the original code and the refactored code.
+ ** Also included are screenshots of the run time of the original code and the refactored code.
  ![This is an image](https://github.com/lilydarby8/Stock-analysis/issues/1#issuecomment-1161995402)
  ![This is an image](https://github.com/lilydarby8/Stock-analysis/issues/1#issuecomment-1161996010)
  ![This is an image](https://github.com/lilydarby8/Stock-analysis/issues/1#issuecomment-1161995656)
