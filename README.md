@@ -22,7 +22,7 @@ The analysis ran through all the tickers to add up each of their individual tota
 
 
 ### Analysis Explained 
-In the 2017 analysis of all stocks the ticker’s return rate fell into the positive category with only one ticker being negative. In comparison the 2018 analysis of all stocks did not do nearly as well. All but two tickers are in the negative.  
+In the 2017 Analysis of All Stocks the ticker’s return rate fell into the positive category with only one ticker being negative. In comparison the 2018 analysis of all stocks did not do nearly as well. All but two tickers were in the negative.  
 
 ##Code Explained
    The original "AllStocksAnalysis" code ran and delivered the desired outcome, but was not sufficient, in that there were unnecessary lines of code it had to go through. In the "AllStocksAnalysis", all 3,012 rows were read 12 times; once for each ticker symbol. 
