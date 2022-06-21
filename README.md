@@ -1,7 +1,7 @@
 # All Stocks Analysis
 
 ## Overview of Project
-The analysis preformed on the 2017 and 2018 Green Stocks data was to better equip Steve and his parents for investing in stocks. His parents were particularly interested in the "DQ" stocks. After running that analysis and getting a negative 0.626 return a need arose to put together an >All Stocks Analysis for Steve and his parents to look at different stocks and make an informed financial decision. 
+The analysis preformed on the 2017 and 2018 Green Stocks data was to better equip Steve and his parents for investing in stocks. His parents were particularly interested in the "DQ" stocks. After running that analysis and getting a negative 0.626 return a need arose to put together an "All Stocks Analysis" for Steve and his parents to look at different stocks and make an informed financial decision. 
 
 ### Purpose
 To accurately display the Ticker’s total daily volume and what return they had. In doing this Steve and his parents could quickly see the successful or unsuccessful tickers. 
